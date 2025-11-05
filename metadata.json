@@ -1,0 +1,5 @@
+{
+  "name": "Supply Chain Inventory Tracker",
+  "description": "An inventory tracking application for a supply chain specialist, showing top products across European warehouses and in-transit stock.",
+  "requestFramePermissions": []
+}
